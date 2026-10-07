@@ -1,0 +1,933 @@
+{
+  "handle": "aditi_101",
+  "synced_at": "2026-09-19T19:56:46.751379+00:00",
+  "submission_count": 53,
+  "submissions": [
+    {
+      "id": 385613789,
+      "created_at": "2026-08-04T15:25:14+00:00",
+      "verdict": "OK",
+      "language": "C++17 (GCC 7-32)",
+      "contest_id": 2254,
+      "problem": {
+        "contest_id": 2254,
+        "index": "C1",
+        "name": "Marenol (easy version)",
+        "tags": [
+          "greedy"
+        ],
+        "rating": 1000
+      }
+    },
+    {
+      "id": 385603179,
+      "created_at": "2026-08-04T15:15:03+00:00",
+      "verdict": "WRONG_ANSWER",
+      "language": "C++17 (GCC 7-32)",
+      "contest_id": 2254,
+      "problem": {
+        "contest_id": 2254,
+        "index": "B",
+        "name": "Evanescent",
+        "tags": [
+          "implementation",
+          "strings",
+          "two pointers"
+        ],
+        "rating": 900
+      }
+    },
+    {
+      "id": 385573750,
+      "created_at": "2026-08-04T14:50:45+00:00",
+      "verdict": "OK",
+      "language": "C++17 (GCC 7-32)",
+      "contest_id": 2254,
+      "problem": {
+        "contest_id": 2254,
+        "index": "A",
+        "name": "Riptide",
+        "tags": [
+          "implementation",
+          "sortings"
+        ],
+        "rating": 800
+      }
+    },
+    {
+      "id": 385133382,
+      "created_at": "2026-08-01T14:53:13+00:00",
+      "verdict": "OK",
+      "language": "C++17 (GCC 7-32)",
+      "contest_id": 2248,
+      "problem": {
+        "contest_id": 2248,
+        "index": "A",
+        "name": "You Delete, I Delete",
+        "tags": [
+          "greedy"
+        ],
+        "rating": 800
+      }
+    },
+    {
+      "id": 380753759,
+      "created_at": "2026-06-30T15:07:39+00:00",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "language": "C++17 (GCC 7-32)",
+      "contest_id": 2241,
+      "problem": {
+        "contest_id": 2241,
+        "index": "B",
+        "name": "Good times Good times",
+        "tags": [
+          "constructive algorithms",
+          "dfs and similar",
+          "math"
+        ],
+        "rating": 1100
+      }
+    },
+    {
+      "id": 380724673,
+      "created_at": "2026-06-30T14:44:20+00:00",
+      "verdict": "OK",
+      "language": "C++17 (GCC 7-32)",
+      "contest_id": 2241,
+      "problem": {
+        "contest_id": 2241,
+        "index": "A",
+        "name": "Divide and Conquer",
+        "tags": [
+          "greedy",
+          "math",
+          "number theory"
+        ],
+        "rating": 800
+      }
+    },
+    {
+      "id": 379383445,
+      "created_at": "2026-06-18T15:10:56+00:00",
+      "verdict": "OK",
+      "language": "C++17 (GCC 7-32)",
+      "contest_id": 2237,
+      "problem": {
+        "contest_id": 2237,
+        "index": "A",
+        "name": "Destroying Towers",
+        "tags": [
+          "games",
+          "greedy",
+          "schedules"
+        ],
+        "rating": 800
+      }
+    },
+    {
+      "id": 378348473,
+      "created_at": "2026-06-12T14:55:29+00:00",
+      "verdict": "OK",
+      "language": "C++17 (GCC 7-32)",
+      "contest_id": 2236,
+      "problem": {
+        "contest_id": 2236,
+        "index": "A",
+        "name": "Games on the Train",
+        "tags": [
+          "greedy",
+          "math"
+        ],
+        "rating": 800
+      }
+    },
+    {
+      "id": 377961051,
+      "created_at": "2026-06-09T15:28:51+00:00",
+      "verdict": "OK",
+      "language": "C++17 (GCC 7-32)",
+      "contest_id": 2233,
+      "problem": {
+        "contest_id": 2233,
+        "index": "A",
+        "name": "AI Project Development",
+        "tags": [
+          "brute force",
+          "math"
+        ],
+        "rating": 800
+      }
+    },
+    {
+      "id": 377815556,
+      "created_at": "2026-06-08T16:56:09+00:00",
+      "verdict": "OK",
+      "language": "C++17 (GCC 7-32)",
+      "contest_id": 1855,
+      "problem": {
+        "contest_id": 1855,
+        "index": "B",
+        "name": "Longest Divisors Interval",
+        "tags": [
+          "brute force",
+          "combinatorics",
+          "greedy",
+          "math",
+          "number theory"
+        ],
+        "rating": 900
+      }
+    },
+    {
+      "id": 377815049,
+      "created_at": "2026-06-08T16:51:54+00:00",
+      "verdict": "COMPILATION_ERROR",
+      "language": "C++17 (GCC 7-32)",
+      "contest_id": 1855,
+      "problem": {
+        "contest_id": 1855,
+        "index": "B",
+        "name": "Longest Divisors Interval",
+        "tags": [
+          "brute force",
+          "combinatorics",
+          "greedy",
+          "math",
+          "number theory"
+        ],
+        "rating": 900
+      }
+    },
+    {
+      "id": 377672265,
+      "created_at": "2026-06-07T16:07:04+00:00",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "language": "C++17 (GCC 7-32)",
+      "contest_id": 2234,
+      "problem": {
+        "contest_id": 2234,
+        "index": "B",
+        "name": "Palindrome, Twelve and Two Terms",
+        "tags": [
+          "brute force",
+          "constructive algorithms",
+          "math"
+        ],
+        "rating": 800
+      }
+    },
+    {
+      "id": 377648515,
+      "created_at": "2026-06-07T15:16:35+00:00",
+      "verdict": "OK",
+      "language": "C++17 (GCC 7-32)",
+      "contest_id": 2234,
+      "problem": {
+        "contest_id": 2234,
+        "index": "A",
+        "name": "Euclid, Sequence and Two Numbers",
+        "tags": [
+          "math",
+          "number theory",
+          "sortings"
+        ],
+        "rating": 800
+      }
+    },
+    {
+      "id": 377537313,
+      "created_at": "2026-06-06T19:13:15+00:00",
+      "verdict": "OK",
+      "language": "C++17 (GCC 7-32)",
+      "contest_id": 1850,
+      "problem": {
+        "contest_id": 1850,
+        "index": "D",
+        "name": "Balanced Round",
+        "tags": [
+          "brute force",
+          "greedy",
+          "implementation",
+          "sortings"
+        ],
+        "rating": 900
+      }
+    },
+    {
+      "id": 377530249,
+      "created_at": "2026-06-06T17:52:18+00:00",
+      "verdict": "OK",
+      "language": "C++17 (GCC 7-32)",
+      "contest_id": 1913,
+      "problem": {
+        "contest_id": 1913,
+        "index": "B",
+        "name": "Swap and Delete",
+        "tags": [
+          "strings"
+        ],
+        "rating": 1000
+      }
+    },
+    {
+      "id": 377529995,
+      "created_at": "2026-06-06T17:50:07+00:00",
+      "verdict": "WRONG_ANSWER",
+      "language": "C++17 (GCC 7-32)",
+      "contest_id": 1913,
+      "problem": {
+        "contest_id": 1913,
+        "index": "B",
+        "name": "Swap and Delete",
+        "tags": [
+          "strings"
+        ],
+        "rating": 1000
+      }
+    },
+    {
+      "id": 377529143,
+      "created_at": "2026-06-06T17:41:07+00:00",
+      "verdict": "WRONG_ANSWER",
+      "language": "C++17 (GCC 7-32)",
+      "contest_id": 1913,
+      "problem": {
+        "contest_id": 1913,
+        "index": "B",
+        "name": "Swap and Delete",
+        "tags": [
+          "strings"
+        ],
+        "rating": 1000
+      }
+    },
+    {
+      "id": 377524471,
+      "created_at": "2026-06-06T16:49:07+00:00",
+      "verdict": "OK",
+      "language": "C++17 (GCC 7-32)",
+      "contest_id": 1869,
+      "problem": {
+        "contest_id": 1869,
+        "index": "A",
+        "name": "Make It Zero",
+        "tags": [
+          "constructive algorithms"
+        ],
+        "rating": 900
+      }
+    },
+    {
+      "id": 377524289,
+      "created_at": "2026-06-06T16:47:09+00:00",
+      "verdict": "WRONG_ANSWER",
+      "language": "C++17 (GCC 7-32)",
+      "contest_id": 1869,
+      "problem": {
+        "contest_id": 1869,
+        "index": "A",
+        "name": "Make It Zero",
+        "tags": [
+          "constructive algorithms"
+        ],
+        "rating": 900
+      }
+    },
+    {
+      "id": 377524006,
+      "created_at": "2026-06-06T16:44:13+00:00",
+      "verdict": "COMPILATION_ERROR",
+      "language": "C++17 (GCC 7-32)",
+      "contest_id": 1869,
+      "problem": {
+        "contest_id": 1869,
+        "index": "A",
+        "name": "Make It Zero",
+        "tags": [
+          "constructive algorithms"
+        ],
+        "rating": 900
+      }
+    },
+    {
+      "id": 377430750,
+      "created_at": "2026-06-05T19:06:52+00:00",
+      "verdict": "OK",
+      "language": "C++17 (GCC 7-32)",
+      "contest_id": 1875,
+      "problem": {
+        "contest_id": 1875,
+        "index": "A",
+        "name": "Jellyfish and Undertale",
+        "tags": [
+          "brute force",
+          "greedy"
+        ],
+        "rating": 900
+      }
+    },
+    {
+      "id": 377426796,
+      "created_at": "2026-06-05T18:15:53+00:00",
+      "verdict": "OK",
+      "language": "C++17 (GCC 7-32)",
+      "contest_id": 1878,
+      "problem": {
+        "contest_id": 1878,
+        "index": "C",
+        "name": "Vasilije in Cacak",
+        "tags": [
+          "math"
+        ],
+        "rating": 900
+      }
+    },
+    {
+      "id": 377312476,
+      "created_at": "2026-06-04T17:15:17+00:00",
+      "verdict": "OK",
+      "language": "C++17 (GCC 7-32)",
+      "contest_id": 1883,
+      "problem": {
+        "contest_id": 1883,
+        "index": "B",
+        "name": "Chemistry",
+        "tags": [
+          "strings"
+        ],
+        "rating": 900
+      }
+    },
+    {
+      "id": 376435262,
+      "created_at": "2026-05-28T16:46:12+00:00",
+      "verdict": "OK",
+      "language": "C++17 (GCC 7-32)",
+      "contest_id": 1904,
+      "problem": {
+        "contest_id": 1904,
+        "index": "A",
+        "name": "Forked!",
+        "tags": [
+          "brute force",
+          "implementation"
+        ],
+        "rating": 900
+      }
+    },
+    {
+      "id": 376331476,
+      "created_at": "2026-05-27T17:53:18+00:00",
+      "verdict": "OK",
+      "language": "C++17 (GCC 7-32)",
+      "contest_id": 1837,
+      "problem": {
+        "contest_id": 1837,
+        "index": "A",
+        "name": "Grasshopper on a Line",
+        "tags": [
+          "constructive algorithms",
+          "math"
+        ],
+        "rating": 800
+      }
+    },
+    {
+      "id": 376303638,
+      "created_at": "2026-05-27T14:49:00+00:00",
+      "verdict": "OK",
+      "language": "C++17 (GCC 7-32)",
+      "contest_id": 1845,
+      "problem": {
+        "contest_id": 1845,
+        "index": "A",
+        "name": "Forbidden Integer",
+        "tags": [
+          "constructive algorithms",
+          "implementation",
+          "math",
+          "number theory"
+        ],
+        "rating": 800
+      }
+    },
+    {
+      "id": 376303418,
+      "created_at": "2026-05-27T14:46:49+00:00",
+      "verdict": "WRONG_ANSWER",
+      "language": "C++17 (GCC 7-32)",
+      "contest_id": 1845,
+      "problem": {
+        "contest_id": 1845,
+        "index": "A",
+        "name": "Forbidden Integer",
+        "tags": [
+          "constructive algorithms",
+          "implementation",
+          "math",
+          "number theory"
+        ],
+        "rating": 800
+      }
+    },
+    {
+      "id": 376283095,
+      "created_at": "2026-05-27T11:33:26+00:00",
+      "verdict": "OK",
+      "language": "C++17 (GCC 7-32)",
+      "contest_id": 1857,
+      "problem": {
+        "contest_id": 1857,
+        "index": "A",
+        "name": "Array Coloring",
+        "tags": [
+          "greedy",
+          "math"
+        ],
+        "rating": 800
+      }
+    },
+    {
+      "id": 376278275,
+      "created_at": "2026-05-27T10:46:22+00:00",
+      "verdict": "OK",
+      "language": "C++17 (GCC 7-32)",
+      "contest_id": 1858,
+      "problem": {
+        "contest_id": 1858,
+        "index": "A",
+        "name": "Buttons",
+        "tags": [
+          "games",
+          "greedy",
+          "math"
+        ],
+        "rating": 800
+      }
+    },
+    {
+      "id": 376274479,
+      "created_at": "2026-05-27T10:06:07+00:00",
+      "verdict": "OK",
+      "language": "C++17 (GCC 7-32)",
+      "contest_id": 1859,
+      "problem": {
+        "contest_id": 1859,
+        "index": "A",
+        "name": "United We Stand",
+        "tags": [
+          "constructive algorithms",
+          "math",
+          "number theory"
+        ],
+        "rating": 800
+      }
+    },
+    {
+      "id": 376221502,
+      "created_at": "2026-05-26T18:20:15+00:00",
+      "verdict": "OK",
+      "language": "C++17 (GCC 7-32)",
+      "contest_id": 1866,
+      "problem": {
+        "contest_id": 1866,
+        "index": "A",
+        "name": "Ambitious Kid",
+        "tags": [
+          "math"
+        ],
+        "rating": 800
+      }
+    },
+    {
+      "id": 376206660,
+      "created_at": "2026-05-26T15:47:43+00:00",
+      "verdict": "OK",
+      "language": "C++17 (GCC 7-32)",
+      "contest_id": 1873,
+      "problem": {
+        "contest_id": 1873,
+        "index": "C",
+        "name": "Target Practice",
+        "tags": [
+          "implementation",
+          "math"
+        ],
+        "rating": 800
+      }
+    },
+    {
+      "id": 376206527,
+      "created_at": "2026-05-26T15:46:31+00:00",
+      "verdict": "WRONG_ANSWER",
+      "language": "C++17 (GCC 7-32)",
+      "contest_id": 1874,
+      "problem": {
+        "contest_id": 1874,
+        "index": "C",
+        "name": "Jellyfish and EVA",
+        "tags": [
+          "dp",
+          "graphs",
+          "greedy",
+          "math",
+          "probabilities"
+        ],
+        "rating": 2300
+      }
+    },
+    {
+      "id": 376201219,
+      "created_at": "2026-05-26T14:50:29+00:00",
+      "verdict": "OK",
+      "language": "C++17 (GCC 7-32)",
+      "contest_id": 1877,
+      "problem": {
+        "contest_id": 1877,
+        "index": "A",
+        "name": "Goals of Victory",
+        "tags": [
+          "math"
+        ],
+        "rating": 800
+      }
+    },
+    {
+      "id": 375848072,
+      "created_at": "2026-05-23T17:32:10+00:00",
+      "verdict": "WRONG_ANSWER",
+      "language": "C++17 (GCC 7-32)",
+      "contest_id": 1890,
+      "problem": {
+        "contest_id": 1890,
+        "index": "A",
+        "name": "Doremy's Paint 3",
+        "tags": [
+          "constructive algorithms"
+        ],
+        "rating": 800
+      }
+    },
+    {
+      "id": 375839680,
+      "created_at": "2026-05-23T16:53:00+00:00",
+      "verdict": "OK",
+      "language": "C++17 (GCC 7-32)",
+      "contest_id": 1899,
+      "problem": {
+        "contest_id": 1899,
+        "index": "A",
+        "name": "Game with Integers",
+        "tags": [
+          "games",
+          "math",
+          "number theory"
+        ],
+        "rating": 800
+      }
+    },
+    {
+      "id": 375801709,
+      "created_at": "2026-05-23T15:06:09+00:00",
+      "verdict": "WRONG_ANSWER",
+      "language": "C++17 (GCC 7-32)",
+      "contest_id": 1899,
+      "problem": {
+        "contest_id": 1899,
+        "index": "A",
+        "name": "Game with Integers",
+        "tags": [
+          "games",
+          "math",
+          "number theory"
+        ],
+        "rating": 800
+      }
+    },
+    {
+      "id": 375779724,
+      "created_at": "2026-05-23T14:42:10+00:00",
+      "verdict": "OK",
+      "language": "C++17 (GCC 7-32)",
+      "contest_id": 1900,
+      "problem": {
+        "contest_id": 1900,
+        "index": "A",
+        "name": "Cover in Water",
+        "tags": [
+          "constructive algorithms",
+          "greedy",
+          "implementation",
+          "strings"
+        ],
+        "rating": 800
+      }
+    },
+    {
+      "id": 375767747,
+      "created_at": "2026-05-23T13:34:50+00:00",
+      "verdict": "OK",
+      "language": "C++17 (GCC 7-32)",
+      "contest_id": 1901,
+      "problem": {
+        "contest_id": 1901,
+        "index": "A",
+        "name": "Line Trip",
+        "tags": [
+          "greedy",
+          "math"
+        ],
+        "rating": 800
+      }
+    },
+    {
+      "id": 375767591,
+      "created_at": "2026-05-23T13:33:14+00:00",
+      "verdict": "WRONG_ANSWER",
+      "language": "C++17 (GCC 7-32)",
+      "contest_id": 33,
+      "problem": {
+        "contest_id": 33,
+        "index": "A",
+        "name": "What is for dinner?",
+        "tags": [
+          "greedy",
+          "implementation"
+        ],
+        "rating": 1200
+      }
+    },
+    {
+      "id": 375164449,
+      "created_at": "2026-05-18T19:12:27+00:00",
+      "verdict": "OK",
+      "language": "C++17 (GCC 7-32)",
+      "contest_id": 2227,
+      "problem": {
+        "contest_id": 2227,
+        "index": "A",
+        "name": "Koshary",
+        "tags": [
+          "implementation",
+          "math"
+        ],
+        "rating": 800
+      }
+    },
+    {
+      "id": 374648404,
+      "created_at": "2026-05-15T18:22:29+00:00",
+      "verdict": "WRONG_ANSWER",
+      "language": "C++17 (GCC 7-32)",
+      "contest_id": 2185,
+      "problem": {
+        "contest_id": 2185,
+        "index": "C",
+        "name": "Shifted MEX",
+        "tags": [
+          "implementation",
+          "sortings"
+        ],
+        "rating": 900
+      }
+    },
+    {
+      "id": 374645673,
+      "created_at": "2026-05-15T17:57:02+00:00",
+      "verdict": "OK",
+      "language": "C++17 (GCC 7-32)",
+      "contest_id": 2185,
+      "problem": {
+        "contest_id": 2185,
+        "index": "B",
+        "name": "Prefix Max",
+        "tags": [
+          "greedy"
+        ],
+        "rating": 800
+      }
+    },
+    {
+      "id": 374644124,
+      "created_at": "2026-05-15T17:44:02+00:00",
+      "verdict": "OK",
+      "language": "C++17 (GCC 7-32)",
+      "contest_id": 2185,
+      "problem": {
+        "contest_id": 2185,
+        "index": "A",
+        "name": "Perfect Root",
+        "tags": [
+          "constructive algorithms",
+          "math"
+        ],
+        "rating": 800
+      }
+    },
+    {
+      "id": 374431297,
+      "created_at": "2026-05-13T18:54:14+00:00",
+      "verdict": "OK",
+      "language": "C++17 (GCC 7-32)",
+      "contest_id": 2218,
+      "problem": {
+        "contest_id": 2218,
+        "index": "A",
+        "name": "The 67th Integer Problem",
+        "tags": [
+          "brute force",
+          "games",
+          "implementation",
+          "math"
+        ],
+        "rating": 800
+      }
+    },
+    {
+      "id": 374430982,
+      "created_at": "2026-05-13T18:50:05+00:00",
+      "verdict": "WRONG_ANSWER",
+      "language": "C++17 (GCC 7-32)",
+      "contest_id": 2218,
+      "problem": {
+        "contest_id": 2218,
+        "index": "A",
+        "name": "The 67th Integer Problem",
+        "tags": [
+          "brute force",
+          "games",
+          "implementation",
+          "math"
+        ],
+        "rating": 800
+      }
+    },
+    {
+      "id": 374430856,
+      "created_at": "2026-05-13T18:48:34+00:00",
+      "verdict": "WRONG_ANSWER",
+      "language": "C++17 (GCC 7-32)",
+      "contest_id": 2218,
+      "problem": {
+        "contest_id": 2218,
+        "index": "A",
+        "name": "The 67th Integer Problem",
+        "tags": [
+          "brute force",
+          "games",
+          "implementation",
+          "math"
+        ],
+        "rating": 800
+      }
+    },
+    {
+      "id": 374427644,
+      "created_at": "2026-05-13T18:15:19+00:00",
+      "verdict": "OK",
+      "language": "C++17 (GCC 7-32)",
+      "contest_id": 2218,
+      "problem": {
+        "contest_id": 2218,
+        "index": "B",
+        "name": "The 67th 6-7 Integer Problem",
+        "tags": [
+          "greedy",
+          "math"
+        ],
+        "rating": 800
+      }
+    },
+    {
+      "id": 373928110,
+      "created_at": "2026-05-08T15:23:21+00:00",
+      "verdict": "WRONG_ANSWER",
+      "language": "C++17 (GCC 7-32)",
+      "contest_id": 2218,
+      "problem": {
+        "contest_id": 2218,
+        "index": "A",
+        "name": "The 67th Integer Problem",
+        "tags": [
+          "brute force",
+          "games",
+          "implementation",
+          "math"
+        ],
+        "rating": 800
+      }
+    },
+    {
+      "id": 373927836,
+      "created_at": "2026-05-08T15:20:37+00:00",
+      "verdict": "WRONG_ANSWER",
+      "language": "C++17 (GCC 7-32)",
+      "contest_id": 2218,
+      "problem": {
+        "contest_id": 2218,
+        "index": "A",
+        "name": "The 67th Integer Problem",
+        "tags": [
+          "brute force",
+          "games",
+          "implementation",
+          "math"
+        ],
+        "rating": 800
+      }
+    },
+    {
+      "id": 373927728,
+      "created_at": "2026-05-08T15:19:34+00:00",
+      "verdict": "COMPILATION_ERROR",
+      "language": "C++17 (GCC 7-32)",
+      "contest_id": 2218,
+      "problem": {
+        "contest_id": 2218,
+        "index": "A",
+        "name": "The 67th Integer Problem",
+        "tags": [
+          "brute force",
+          "games",
+          "implementation",
+          "math"
+        ],
+        "rating": 800
+      }
+    },
+    {
+      "id": 342201534,
+      "created_at": "2025-10-06T11:22:15+00:00",
+      "verdict": "OK",
+      "language": "C++20 (GCC 13-64)",
+      "contest_id": 4,
+      "problem": {
+        "contest_id": 4,
+        "index": "A",
+        "name": "Watermelon",
+        "tags": [
+          "brute force",
+          "math"
+        ],
+        "rating": 800
+      }
+    },
+    {
+      "id": 342201130,
+      "created_at": "2025-10-06T11:19:00+00:00",
+      "verdict": "COMPILATION_ERROR",
+      "language": "GNU C11",
+      "contest_id": 4,
+      "problem": {
+        "contest_id": 4,
+        "index": "A",
+        "name": "Watermelon",
+        "tags": [
+          "brute force",
+          "math"
+        ],
+        "rating": 800
+      }
+    }
+  ]
+}
