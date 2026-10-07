@@ -30,6 +30,12 @@ New-Item -ItemType Directory -Force -Path $buildDirectory | Out-Null
 if (-not (Test-Path -LiteralPath $inputFile)) {
     New-Item -ItemType File -Path $inputFile | Out-Null
 }
+if (-not (Test-Path -LiteralPath $outputFile)) {
+    New-Item -ItemType File -Path $outputFile | Out-Null
+} else {
+    # Never leave results from the previous run visible after a new run starts.
+    Clear-Content -LiteralPath $outputFile
+}
 
 Write-Host "Compiling $Source"
 & $compiler '-std=c++17' '-O2' '-Wall' '-Wextra' $Source '-o' $executable
